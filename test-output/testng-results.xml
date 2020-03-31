@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="118698" started-at="2020-03-16T01:07:48Z" finished-at="2020-03-16T01:09:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="118698" started-at="2020-03-16T01:07:48Z" finished-at="2020-03-16T01:09:47Z">
+      <class name="Tests.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Tests.HomePageTest@55f3ddb1]" name="setup" is-config="true" duration-ms="9333" started-at="2020-03-15T21:07:48Z" finished-at="2020-03-15T21:07:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkTitle()[pri:1, instance:Tests.HomePageTest@55f3ddb1]" name="checkTitle" duration-ms="128" started-at="2020-03-15T21:07:57Z" description="Get home page title" finished-at="2020-03-15T21:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.HomePageTest@55f3ddb1]" name="tearDown" is-config="true" duration-ms="110" started-at="2020-03-15T21:07:58Z" finished-at="2020-03-15T21:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Tests.HomePageTest@55f3ddb1]" name="setup" is-config="true" duration-ms="2586" started-at="2020-03-15T21:07:58Z" finished-at="2020-03-15T21:08:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="invisibleDropDownSelect()[pri:2, instance:Tests.HomePageTest@55f3ddb1]" name="invisibleDropDownSelect" duration-ms="6566" started-at="2020-03-15T21:08:00Z" description="Open &amp; select main page dropDown menu" finished-at="2020-03-15T21:08:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invisibleDropDownSelect -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.HomePageTest@55f3ddb1]" name="tearDown" is-config="true" duration-ms="134" started-at="2020-03-15T21:08:07Z" finished-at="2020-03-15T21:08:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.HomePageTest -->
+      <class name="Tests.PhoneFeaturesTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.PhoneFeaturesTest@18be83e4]" name="setUp" is-config="true" duration-ms="13446" started-at="2020-03-15T21:08:33Z" finished-at="2020-03-15T21:08:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitle()[pri:1, instance:Tests.PhoneFeaturesTest@18be83e4]" name="verifyTitle" duration-ms="95" started-at="2020-03-15T21:08:46Z" description="Verify title" finished-at="2020-03-15T21:08:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.PhoneFeaturesTest@18be83e4]" name="tearDown" is-config="true" duration-ms="127" started-at="2020-03-15T21:08:46Z" finished-at="2020-03-15T21:08:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.PhoneFeaturesTest@18be83e4]" name="setUp" is-config="true" duration-ms="11284" started-at="2020-03-15T21:08:46Z" finished-at="2020-03-15T21:08:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="features()[pri:2, instance:Tests.PhoneFeaturesTest@18be83e4]" name="features" duration-ms="1552" started-at="2020-03-15T21:08:58Z" description="Checking for selections" finished-at="2020-03-15T21:08:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- features -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.PhoneFeaturesTest@18be83e4]" name="tearDown" is-config="true" duration-ms="128" started-at="2020-03-15T21:08:59Z" finished-at="2020-03-15T21:08:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.PhoneFeaturesTest@18be83e4]" name="setUp" is-config="true" duration-ms="12616" started-at="2020-03-15T21:08:59Z" finished-at="2020-03-15T21:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="allInOne()[pri:3, instance:Tests.PhoneFeaturesTest@18be83e4]" name="allInOne" duration-ms="7739" started-at="2020-03-15T21:09:12Z" description="Page 3 test" finished-at="2020-03-15T21:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allInOne -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.PhoneFeaturesTest@18be83e4]" name="tearDown" is-config="true" duration-ms="179" started-at="2020-03-15T21:09:20Z" finished-at="2020-03-15T21:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.PhoneFeaturesTest@18be83e4]" name="setUp" is-config="true" duration-ms="19492" started-at="2020-03-15T21:09:20Z" finished-at="2020-03-15T21:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkPrice()[pri:4, instance:Tests.PhoneFeaturesTest@18be83e4]" name="checkPrice" duration-ms="7205" started-at="2020-03-15T21:09:39Z" description="Run Test Start to Finish" finished-at="2020-03-15T21:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPrice -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.PhoneFeaturesTest@18be83e4]" name="tearDown" is-config="true" duration-ms="161" started-at="2020-03-15T21:09:47Z" finished-at="2020-03-15T21:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.PhoneFeaturesTest -->
+      <class name="Tests.SmartPhonesTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.SmartPhonesTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="8206" started-at="2020-03-15T21:08:07Z" finished-at="2020-03-15T21:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getTitle()[pri:1, instance:Tests.SmartPhonesTest@8bd1b6a]" name="getTitle" duration-ms="126" started-at="2020-03-15T21:08:15Z" description="Get home page title" finished-at="2020-03-15T21:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.SmartPhonesTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="112" started-at="2020-03-15T21:08:15Z" finished-at="2020-03-15T21:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests.SmartPhonesTest@8bd1b6a]" name="setUp" is-config="true" duration-ms="11378" started-at="2020-03-15T21:08:15Z" finished-at="2020-03-15T21:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickIphone11()[pri:2, instance:Tests.SmartPhonesTest@8bd1b6a]" name="clickIphone11" duration-ms="5711" started-at="2020-03-15T21:08:27Z" description="Click on Iphone 11" finished-at="2020-03-15T21:08:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickIphone11 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.SmartPhonesTest@8bd1b6a]" name="tearDown" is-config="true" duration-ms="219" started-at="2020-03-15T21:08:33Z" finished-at="2020-03-15T21:08:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.SmartPhonesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
