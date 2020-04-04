@@ -15,7 +15,7 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 /** 
- * @author bobit
+ * @author alphaslan
  */
 
 public class BasePage {
@@ -24,7 +24,7 @@ public class BasePage {
 	public Properties prop;
 	
 	/**
-	 * This mthod is used to initialize the driver on basis of given browser
+	 * This method is used to initialize the driver on basis of given browser
 	 * @return this methods returns webdriver instance
 	 * @throws InterruptedException 
 	 */
